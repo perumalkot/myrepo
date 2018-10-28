@@ -1,0 +1,2 @@
+this is my test directory in git up 
+just modify
